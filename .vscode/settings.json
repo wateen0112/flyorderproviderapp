@@ -1,0 +1,9 @@
+{
+  "nuxt.isNuxtApp": false,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#46203E",
+    "titleBar.activeBackground": "#612D57",
+    "titleBar.activeForeground": "#FCF9FC"
+  },
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+}
